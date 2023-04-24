@@ -50,6 +50,6 @@ services:
       - web
 
 volumes:
-
+  database_postgres:
   static_value:
   media_value:
